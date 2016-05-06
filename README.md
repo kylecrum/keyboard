@@ -4,4 +4,3 @@
 3. Click the "Auto" button on the upper right hand side of the Teensy-Loader window
 4. Drag and drop the '.hex' file onto the Teensy loader window.
 5. Press and release the Teensy reset button
-
